@@ -1,1 +1,1 @@
-# checkapp-api
+Бэкенд приложения CheckApp.
